@@ -1,2 +1,7 @@
 # calculatorapp
-A Flutter based android calculator app
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
